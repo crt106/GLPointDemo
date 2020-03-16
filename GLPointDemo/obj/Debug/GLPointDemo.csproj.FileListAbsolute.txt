@@ -1,0 +1,17 @@
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\GLPointDemo.exe.config
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\GLPointDemo.exe
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\GLPointDemo.pdb
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\SharpGL.dll
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\SharpGL.WinForms.dll
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\SharpGL.xml
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\SharpGL.WinForms.xml
+D:\Program Source\GLPointDemo\GLPointDemo\obj\Debug\GLPointDemo.csprojAssemblyReference.cache
+D:\Program Source\GLPointDemo\GLPointDemo\obj\Debug\GLPointDemo.Form1.resources
+D:\Program Source\GLPointDemo\GLPointDemo\obj\Debug\GLPointDemo.Properties.Resources.resources
+D:\Program Source\GLPointDemo\GLPointDemo\obj\Debug\GLPointDemo.csproj.GenerateResource.cache
+D:\Program Source\GLPointDemo\GLPointDemo\obj\Debug\GLPointDemo.csproj.CoreCompileInputs.cache
+D:\Program Source\GLPointDemo\GLPointDemo\obj\Debug\GLPointDemo.csproj.CopyComplete
+D:\Program Source\GLPointDemo\GLPointDemo\obj\Debug\GLPointDemo.exe
+D:\Program Source\GLPointDemo\GLPointDemo\obj\Debug\GLPointDemo.pdb
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\GlmNet.dll
+D:\Program Source\GLPointDemo\GLPointDemo\bin\Debug\GlmNet.xml
